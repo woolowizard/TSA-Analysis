@@ -1,3 +1,7 @@
+## Progetto
+
+In questo progetto sono state analizzate due TS, una economica ed una finanziaria al fine di fare forecasting. 
+
 ## Struttura delle Cartelle
 
 - `df/`: Cartella contenente i dataframes.
