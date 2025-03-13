@@ -20,9 +20,4 @@ Questo progetto contiene diversi script e funzioni per lavorare con i dataframes
 ## Requisiti
 
 - R 4.x o versioni superiori.
-- Pacchetti R specifici (elencati nel codice o in un file `requirements.txt`, se disponibile).
-
-## Contribuire
-
-Se desideri contribuire a questo progetto, crea un fork, apporta le modifiche necessarie e invia una pull request.
-
+- Pacchetti specifici (vedi nei file dei codici.r)
