@@ -1,7 +1,3 @@
-# Project Folder
-
-Questo progetto contiene diversi script e funzioni per lavorare con i dataframes, utilizzando codice R per l'elaborazione e l'analisi dei dati.
-
 ## Struttura delle Cartelle
 
 - `df/`: Cartella contenente i dataframes.
